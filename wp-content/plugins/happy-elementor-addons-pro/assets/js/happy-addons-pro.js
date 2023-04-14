@@ -90,6 +90,10 @@ window.Happy = window.Happy || {};
       var HappyLocalTimeZone = new Date().toString().match(/([A-Z]+[\+-][0-9]+.*)/)[1];
       var ha_secure = document.location.protocol === "https:" ? "secure" : "";
       document.cookie = "HappyLocalTimeZone=" + HappyLocalTimeZone + ";SameSite=Strict;" + ha_secure;
+    } else {
+      var now = new Date();
+      now.setTime(now.getTime() - 1000 * 3600);
+      document.cookie = "HappyLocalTimeZone=;expires=" + now.toUTCString() + ";";
     }
 
     var CountDown = function CountDown($scope) {
@@ -909,37 +913,22 @@ window.Happy = window.Happy || {};
           $sticky_close = $wrap.find(".ha-sticky-video-close i"),
           $all_box = $(".ha-sticky-video-box"),
           event = "scroll.haStickyVideo" + $scope.data("id"),
-          //event = "scroll.haStickyVideo"+$scope.data('id')+" resize.haStickyVideo"+$scope.data('id'),
-      set;
-      var option = {
-        autoplay: $settting.autoplay,
-        muted: $settting.muted,
-        loop: $settting.loop,
-        clickToPlay: false,
-        hideControls: false // youtube: {
-        // 	start: '30',
-        // 	end: '45',
-        // },
-
-      };
-      /*
-      var playerAbc = new Plyr('#player', {
-      	title: 'Example Title',
-      	// autoplay: true,
-      	youtube: {
-      		start: '30',
-      		end: '45',
-      	},
-      });
-      */
-
+          set;
       var playerAbc = new Plyr($id);
       var StickyVideoObject = {
         player: playerAbc,
         event: event,
         player_box: $box
       };
-      StickyVideoArray.push(StickyVideoObject); //on overlay click
+      StickyVideoArray.push(StickyVideoObject); //on ready
+
+      playerAbc.on("ready", function (e) {
+        var $box_plyr = $box.find('.plyr.plyr--video');
+
+        if (true == $settting.autoplay) {
+          $box_plyr.trigger("click");
+        }
+      }); //on overlay click
 
       if (0 !== $overlay_box.length) {
         var $el = 0 !== $overlay_play.length ? $overlay_play : $overlay_box;
@@ -974,7 +963,7 @@ window.Happy = window.Happy || {};
           if (item.player_box !== $box) {
             item.player_box.removeClass("sticky");
           }
-        }); //$all_box.removeClass("sticky");
+        });
 
         if (true === $settting.sticky) {
           $window.on(event, function () {
@@ -1003,42 +992,6 @@ window.Happy = window.Happy || {};
         var height = $box.find(".plyr").height();
         $wrap.css("min-height", height + "px");
       }, 100));
-      /*
-      var event = "scroll.timelineScroll" + T_ID + " resize.timelineScroll" + T_ID;
-       function scroll_tree() {
-      	timeline_block.each(function() {
-      		var block_height = $(this).outerHeight(true);
-      		var $offsetTop = $(this).offset().top;
-      		var window_middle_p = $window.scrollTop() + $window.height() / 2;
-      		if ($offsetTop < window_middle_p) {
-      			$(this).addClass("ha-timeline-scroll-tree");
-      		} else {
-      			$(this).removeClass("ha-timeline-scroll-tree");
-      		}
-      		var scroll_tree_wrap = $(this).find('.ha-timeline-tree-inner');
-      		var scroll_height = ($window.scrollTop() - scroll_tree_wrap.offset().top) + ($window.outerHeight() / 2);
-      		if ($offsetTop < window_middle_p && timeline_block.hasClass('ha-timeline-scroll-tree')) {
-      			if (block_height > scroll_height) {
-      				scroll_tree_wrap.css({
-      					"height": scroll_height * 1.5 + "px",
-      				});
-      			} else {
-      				scroll_tree_wrap.css({
-      					"height": block_height * 1.2 + "px",
-      				});
-      			}
-      		} else {
-      			scroll_tree_wrap.css("height", "0px");
-      		}
-      	});
-      }
-      if ('yes' === dataScroll) {
-      	scroll_tree();
-      	$window.on(event, scroll_tree);
-      } else {
-      	$window.off(event);
-      }
-      */
     }; //facebook feed
 
 
@@ -2253,11 +2206,14 @@ window.Happy = window.Happy || {};
 
         return collapse_height;
       },
-      fold: function fold(unfoldData, button, collapse_height) {
+      fold: function fold(unfoldData, button, collapse_height, unfoldRender) {
         var unfoldSettings = this.getReadySettings();
         var html = unfoldSettings.collapse_icon ? unfoldSettings.collapse_icon.value ? '<i aria-hidden="true" class="' + unfoldSettings.collapse_icon.value + '"></i>' : "" : "";
         html += unfoldSettings.collapse_text ? "<span>" + unfoldSettings.collapse_text + "</span>" : "";
-        unfoldData.css("transition-duration", unfoldSettings.transition_duration + "ms");
+        unfoldData.css({
+          "transition-duration": unfoldSettings.transition_duration + "ms",
+          "height": unfoldRender.outerHeight(true) + 'px'
+        });
         unfoldData.animate({
           height: collapse_height
         }, 0);
@@ -2276,6 +2232,7 @@ window.Happy = window.Happy || {};
           height: unfoldRender.outerHeight(true)
         }, 0);
         var timeOut = setTimeout(function () {
+          unfoldData.css("height", 'auto');
           button.html(html);
           clearTimeout(timeOut);
         }, unfoldSettings.transition_duration);
@@ -2295,7 +2252,7 @@ window.Happy = window.Happy || {};
             collapse_height = $this.getCollapseHeight();
 
             if (unfoldData.hasClass("folded")) {
-              $this.fold(unfoldData, button, collapse_height);
+              $this.fold(unfoldData, button, collapse_height, unfoldRender);
             } else {
               $this.unfold(unfoldData, unfoldRender, button);
             }
@@ -2306,7 +2263,7 @@ window.Happy = window.Happy || {};
           });
           unfoldData.on("mouseleave", function () {
             collapse_height = $this.getCollapseHeight();
-            $this.fold(unfoldData, button, collapse_height);
+            $this.fold(unfoldData, button, collapse_height, unfoldRender);
           });
         }
       }
