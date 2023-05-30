@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://coaststeel.fastandstatic.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>./page-sitemap.xml</loc>
+		<loc>http://coaststeel.fastandstatic.com/page-sitemap.xml</loc>
 		<lastmod>2023-05-30T16:22:41+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./component-sitemap.xml</loc>
+		<loc>http://coaststeel.fastandstatic.com/component-sitemap.xml</loc>
 		<lastmod>2023-05-29T15:52:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./project-sitemap.xml</loc>
+		<loc>http://coaststeel.fastandstatic.com/project-sitemap.xml</loc>
 		<lastmod>2023-05-26T21:12:38+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
