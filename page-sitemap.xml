@@ -2,97 +2,32 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-04-14T20:21:19+00:00</lastmod>
+		<lastmod>2023-05-30T14:36:42+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Enmascarar-grupo-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Image-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Enmascarar-grupo-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Image-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Enmascarar-grupo-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/About-Us-boton.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Product-boton.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Image-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>./about-us/index.html</loc>
+		<lastmod>2023-05-30T14:14:01+00:00</lastmod>
+	</url>
+	<url>
 		<loc>./our-products/index.html</loc>
-		<lastmod>2023-04-14T20:21:08+00:00</lastmod>
+		<lastmod>2023-05-30T14:17:27+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Enmascarar-grupo-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Mask-Group-230.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-25-mobiles-_1_NEW-pc.webp</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Mask-Group-230-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/1-24-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-24-mobiles-_1_NEW-pc.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-27-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-27-mobiles-1NEW-pc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-28-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-26-mobiles-_1_NEW-pc.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-25-mobiles-1NEW-MOBILE-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-25-mobiles-_1_NEW-pc.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/1-24-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-24-mobiles-_1_NEW-pc.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-27-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-27-mobiles-1NEW-pc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-28-mobiles-1NEW-MOBILE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-26-mobiles-_1_NEW-pc.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-25-mobiles-1NEW-MOBILE-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-23.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-23.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-00001.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-0000.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Grupo-000012.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/About-Us-boton.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Product-boton.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/Mask-Group-230-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
