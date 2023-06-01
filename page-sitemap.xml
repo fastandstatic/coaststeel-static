@@ -55,7 +55,13 @@
 	</url>
 	<url>
 		<loc>./our-products/index.html</loc>
-		<lastmod>2023-06-01T21:40:37+00:00</lastmod>
+		<lastmod>2023-06-01T21:58:18+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/05/shutterstock_2290115419-768x512.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/05/shutterstock_3846271-768x512.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/05/shutterstock_2290115419-768x512.png</image:loc>
 		</image:image>
