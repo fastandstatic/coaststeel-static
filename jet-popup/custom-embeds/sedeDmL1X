@@ -6,17 +6,17 @@
 				<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Popupproject1 - Coaststeel</title>
+	<title>Custom Embeds - Coaststeel</title>
 	<link rel="canonical" href="./ ">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Popupproject1 - Coaststeel">
+	<meta property="og:title" content="Custom Embeds - Coaststeel">
 	<meta property="og:url" content="./ ">
 	<meta property="og:site_name" content="Coaststeel">
-	<meta property="article:modified_time" content="2023-05-31T19:17:49+00:00">
-	<meta property="og:image" content="./../../wp-content/uploads/2023/05/Image-3.png">
+	<meta property="article:modified_time" content="2023-05-31T21:10:21+00:00">
+	<meta property="og:image" content="./../../wp-content/uploads/2023/05/Mask-Group-47-768x533.jpg">
 	<meta name="twitter:card" content="summary_large_image">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":".//jet-popup/popupprojects/","url":".//jet-popup/popupprojects/","name":"Popupproject1 - Coaststeel","isPartOf":{"@id":".//#website"},"primaryImageOfPage":{"@id":".//jet-popup/popupprojects/#primaryimage"},"image":{"@id":".//jet-popup/popupprojects/#primaryimage"},"thumbnailUrl":".//wp-content/uploads/2023/05/Image-3.png","datePublished":"2023-05-31T15:48:36+00:00","dateModified":"2023-05-31T19:17:49+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[".//jet-popup/popupprojects/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":".//jet-popup/popupprojects/#primaryimage","url":".//wp-content/uploads/2023/05/Image-3.png","contentUrl":".//wp-content/uploads/2023/05/Image-3.png","width":540,"height":308},{"@type":"WebSite","@id":".//#website","url":".//","name":"Coaststeel","description":"","publisher":{"@id":".//#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":".//?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":".//#organization","name":"Coaststeel","url":".//","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":".//#/schema/logo/image/","url":".//wp-content/uploads/2023/05/LOGO-BLANCO-COASTEEL.png","contentUrl":".//wp-content/uploads/2023/05/LOGO-BLANCO-COASTEEL.png","width":240,"height":52,"caption":"Coaststeel"},"image":{"@id":".//#/schema/logo/image/"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":".//jet-popup/custom-embeds/","url":".//jet-popup/custom-embeds/","name":"Custom Embeds - Coaststeel","isPartOf":{"@id":".//#website"},"primaryImageOfPage":{"@id":".//jet-popup/custom-embeds/#primaryimage"},"image":{"@id":".//jet-popup/custom-embeds/#primaryimage"},"thumbnailUrl":".//wp-content/uploads/2023/05/Mask-Group-47-768x533.jpg","datePublished":"2023-05-31T19:51:20+00:00","dateModified":"2023-05-31T21:10:21+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[".//jet-popup/custom-embeds/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":".//jet-popup/custom-embeds/#primaryimage","url":".//wp-content/uploads/2023/05/Mask-Group-47.jpg","contentUrl":".//wp-content/uploads/2023/05/Mask-Group-47.jpg","width":848,"height":589},{"@type":"WebSite","@id":".//#website","url":".//","name":"Coaststeel","description":"","publisher":{"@id":".//#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":".//?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":".//#organization","name":"Coaststeel","url":".//","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":".//#/schema/logo/image/","url":".//wp-content/uploads/2023/05/LOGO-BLANCO-COASTEEL.png","contentUrl":".//wp-content/uploads/2023/05/LOGO-BLANCO-COASTEEL.png","width":240,"height":52,"caption":"Coaststeel"},"image":{"@id":".//#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -58,7 +58,7 @@ img.emoji {
 <link rel="stylesheet" id="font-awesome-5-all-css" href="./../../wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.9.57" media="all">
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="./../../wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.13.4" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="./../../wp-content/uploads/elementor/css/global.css?ver=1685656859" media="all">
-<link rel="stylesheet" id="elementor-post-1555-css" href="./../../wp-content/uploads/elementor/css/post-1555.css?ver=1685656874" media="all">
+<link rel="stylesheet" id="elementor-post-1693-css" href="./../../wp-content/uploads/elementor/css/post-1693.css?ver=1685656875" media="all">
 <link rel="stylesheet" id="elementor-post-28-css" href="./../../wp-content/uploads/elementor/css/post-28.css?ver=1685656865" media="all">
 <link rel="stylesheet" id="elementor-post-938-css" href="./../../wp-content/uploads/elementor/css/post-938.css?ver=1685656865" media="all">
 <link rel="stylesheet" id="elementor-post-1206-css" href="./../../wp-content/uploads/elementor/css/post-1206.css?ver=1685656865" media="all">
@@ -66,7 +66,7 @@ img.emoji {
 <link rel="stylesheet" id="elementor-icons-shared-0-css" href="./../../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
 <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./../../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<script id="media-video-jwt-bridge-js-extra">var videopressAjax = {"ajaxUrl":".\/\/wp-admin\/admin-ajax.php","bridgeUrl":".\/\/wp-content\/plugins\/jetpack-videopress\/jetpack_vendor\/automattic\/jetpack-videopress\/src\/..\/build\/lib\/token-bridge.js","post_id":"1555"};</script>
+<script id="media-video-jwt-bridge-js-extra">var videopressAjax = {"ajaxUrl":".\/\/wp-admin\/admin-ajax.php","bridgeUrl":".\/\/wp-content\/plugins\/jetpack-videopress\/jetpack_vendor\/automattic\/jetpack-videopress\/src\/..\/build\/lib\/token-bridge.js","post_id":"1693"};</script>
 <script src="./../../wp-content/plugins/jetpack-videopress/jetpack_vendor/automattic/jetpack-videopress/src/../build/lib/token-bridge.js?ver=0.13.1" id="media-video-jwt-bridge-js"></script>
 <script src="./../../wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script src="./../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
@@ -76,13 +76,13 @@ img.emoji {
 <script id="pys-js-extra">var pysOptions = {"staticEvents":[],"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"debug":"","siteUrl":".\/","ajaxUrl":".\/\/wp-admin\/admin-ajax.php","ajax_event":"7e6ad834de","trackUTMs":"1","trackTrafficSource":"1","user_id":"0","enable_lading_page_param":"1","cookie_duration":"7","enable_event_day_param":"1","enable_event_month_param":"1","enable_event_time_param":"1","enable_remove_target_url_param":"1","enable_remove_download_url_param":"1","visit_data_model":"first_visit","last_visit_duration":"60","enable_auto_save_advance_matching":"1","advance_matching_fn_names":["first_name","first-name","first name","name"],"advance_matching_ln_names":["last_name","last-name","last name"],"advance_matching_tel_names":["phone","tel"],"enable_success_send_form":"","enable_automatic_events":"","enable_event_video":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"tiktok_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"tiktok_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"consent_magic_integration_enabled":false},"automatic":{"enable_youtube":true,"enable_vimeo":true,"enable_video":true},"woo":{"enabled":false},"edd":{"enabled":false}};</script>
 <script src="./../../wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=9.6.2" id="pys-js"></script>
 <link rel="https://api.w.org/" href="./../../wp-json/ ">
-<link rel="alternate" type="application/json" href="./../../wp-json/wp/v2/jet-popup/1555/ ">
+<link rel="alternate" type="application/json" href="./../../wp-json/wp/v2/jet-popup/1693/ ">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.2">
-<link rel="shortlink" href="./../../ ?p=1555">
-<link rel="alternate" type="application/json+oembed" href="./../../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fjet-popup%2Fpopupprojects%2F">
-<link rel="alternate" type="text/xml+oembed" href="./../../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fjet-popup%2Fpopupprojects%2F#038;format=xml">
+<link rel="shortlink" href="./../../ ?p=1693">
+<link rel="alternate" type="application/json+oembed" href="./../../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fjet-popup%2Fcustom-embeds%2F">
+<link rel="alternate" type="text/xml+oembed" href="./../../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fjet-popup%2Fcustom-embeds%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.13.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 <script type="application/javascript">console.warn('PixelYourSite PRO: no pixel configured.');</script>
 <link rel="icon" href="./../../wp-content/uploads/2023/05/cropped-FAVICON-32x32.png" sizes="32x32">
@@ -106,20 +106,239 @@ img.emoji {
 }
 }</style>
 			</head>
-	<body class="jet-popup-template-default single single-jet-popup postid-1555 elementor-default elementor-kit-5 elementor-page elementor-page-1555">
-<div id="jet-popup-1555" class="jet-popup jet-popup--front-mode jet-popup--hide-state jet-popup--animation-fade jet-popup--show-state jet-popup--single-preview" data-settings="{&quot;id&quot;:1555,&quot;jet-popup-id&quot;:&quot;jet-popup-1555&quot;,&quot;type&quot;:&quot;default&quot;,&quot;animation&quot;:&quot;fade&quot;,&quot;open-trigger&quot;:&quot;custom-selector&quot;,&quot;page-load-delay&quot;:1,&quot;user-inactivity-time&quot;:1,&quot;scrolled-to&quot;:10,&quot;on-date&quot;:&quot;2023-07-01 19:17&quot;,&quot;on-time-start&quot;:&quot;&quot;,&quot;on-time-end&quot;:&quot;&quot;,&quot;custom-selector&quot;:&quot;.project-1&quot;,&quot;prevent-scrolling&quot;:false,&quot;show-once&quot;:false,&quot;show-again-delay&quot;:&quot;none&quot;,&quot;use-ajax&quot;:false,&quot;force-ajax&quot;:false,&quot;close-on-overlay-click&quot;:true,&quot;content-type&quot;:&quot;elementor&quot;}"><div class="jet-popup__inner">
+	<body class="jet-popup-template-default single single-jet-popup postid-1693 elementor-default elementor-kit-5 elementor-page elementor-page-1693">
+<div id="jet-popup-1693" class="jet-popup jet-popup--front-mode jet-popup--hide-state jet-popup--animation-fade jet-popup--show-state jet-popup--single-preview" data-settings="{&quot;id&quot;:1693,&quot;jet-popup-id&quot;:&quot;jet-popup-1693&quot;,&quot;type&quot;:&quot;default&quot;,&quot;animation&quot;:&quot;fade&quot;,&quot;open-trigger&quot;:&quot;custom-selector&quot;,&quot;page-load-delay&quot;:1,&quot;user-inactivity-time&quot;:1,&quot;scrolled-to&quot;:10,&quot;on-date&quot;:&quot;2023-07-01 21:10&quot;,&quot;on-time-start&quot;:&quot;&quot;,&quot;on-time-end&quot;:&quot;&quot;,&quot;custom-selector&quot;:&quot;&quot;,&quot;prevent-scrolling&quot;:false,&quot;show-once&quot;:false,&quot;show-again-delay&quot;:&quot;none&quot;,&quot;use-ajax&quot;:false,&quot;force-ajax&quot;:false,&quot;close-on-overlay-click&quot;:true,&quot;content-type&quot;:&quot;elementor&quot;}"><div class="jet-popup__inner">
 <div class="jet-popup__overlay"></div>
 <div class="jet-popup__container">
 <div class="jet-popup__container-inner">
 <div class="jet-popup__container-overlay"></div>
 <div class="jet-popup__container-content">
-<style>.elementor-1555 .elementor-element.elementor-element-51214b1{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--align-items:center;--background-transition:0.3s;--margin-top:0px;--margin-right:0px;--margin-bottom:0px;--margin-left:0px;--padding-top:0px;--padding-right:0px;--padding-bottom:0px;--padding-left:0px;}.elementor-1555 .elementor-element.elementor-element-46ac9da img{width:100%;height:400px;}#jet-popup-1555 .jet-popup__container{width:46%;}#jet-popup-1555 .jet-popup__inner{justify-content:center;align-items:center;}#jet-popup-1555 .jet-popup__container-inner{justify-content:center;background-color:#02010100;}#jet-popup-1555 .jet-popup__close-button:before{font-size:30px;}#jet-popup-1555 .jet-popup__close-button{font-size:30px;width:40px;height:40px;}#jet-popup-1555 .jet-popup__close-button svg{width:30px;}#jet-popup-1555 .jet-popup__overlay{background-color:#000000C7;}</style>		<div data-elementor-type="jet-popup" data-elementor-id="1555" class="elementor elementor-1555">
-							<div class="elementor-element elementor-element-51214b1 e-con-full e-flex e-con" data-id="51214b1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-				<div class="elementor-element elementor-element-46ac9da elementor-widget elementor-widget-image" data-id="46ac9da" data-element_type="widget" data-widget_type="image.default">
+<style>.elementor-1693 .elementor-element.elementor-element-51214b1{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--align-items:center;--background-transition:0.3s;--margin-top:0px;--margin-right:0px;--margin-bottom:0px;--margin-left:0px;--padding-top:0px;--padding-right:0px;--padding-bottom:0px;--padding-left:0px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_elegant_carousel_content{padding:0px 0px 0px 0px;background-color:#00000000;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_elegant_carousel_placeholder img{height:400px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_elegant_content_box{padding:30px 30px 30px 30px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#ffffff;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .ue-item-icon{width:60px;height:60px;font-size:20px;color:#ffffff;background-color:#6e6e6e;border-radius:100px 100px 100px 100px;margin-top:0px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .ue-item-icon svg{fill:#ffffff;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .ue-item-icon-wrapper{justify-content:center;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_elegant_content_box h2{margin-top:0px;color:#ffffff;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_paragraph{margin-top:20px;color:rgba(255, 255, 255, 0.85);}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_more_btn{padding:10px 20px 10px 20px;border-radius:0px;background-color:#ffffff;color:#000000;margin-top:20px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#ffffff;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_more_btn:hover{background-color:#000000;color:#ffffff;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-dot{width:8px;height:8px;background-color:#c6c6c6;margin:0px 5px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-dot.active{background-color:#000000;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-dots{margin-top:20px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-next,.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-prev{top:100px;border-radius:50px;width:50px;height:50px;line-height:50px;font-size:20px;background-color:#4D4D4D;color:#FFFFFF;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-next:hover,.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-prev:hover{background-color:#FFFFFF;color:#000000;}#jet-popup-1693 .jet-popup__container{width:50%;}#jet-popup-1693 .jet-popup__inner{justify-content:center;align-items:center;}#jet-popup-1693 .jet-popup__container-inner{justify-content:center;background-color:#02010100;}#jet-popup-1693 .jet-popup__close-button:before{font-size:30px;}#jet-popup-1693 .jet-popup__close-button{font-size:30px;width:40px;height:40px;}#jet-popup-1693 .jet-popup__close-button svg{width:30px;}#jet-popup-1693 .jet-popup__overlay{background-color:#000000C7;}@media(max-width:767px){.elementor-1693 .elementor-element.elementor-element-fcb8a30 .uc_elegant_carousel_placeholder img{height:240px;}.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-next,.elementor-1693 .elementor-element.elementor-element-fcb8a30 .owl-carousel .owl-nav .owl-prev{width:35px;height:35px;line-height:35px;font-size:15px;}#jet-popup-1693 .jet-popup__container{width:90%;}}</style>		<div data-elementor-type="jet-popup" data-elementor-id="1693" class="elementor elementor-1693">
+							<div class="elementor-element elementor-element-51214b1 e-con-boxed e-flex e-con" data-id="51214b1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-fcb8a30 elementor-widget elementor-widget-ucaddon_overlay_carousel" data-id="fcb8a30" data-element_type="widget" data-widget_type="ucaddon_overlay_carousel.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="540" height="308" src="./../../wp-content/uploads/2023/05/Image-3.png" class="attachment-full size-full wp-image-904" alt="" srcset="./../../wp-content/uploads/2023/05/Image-3.png 540w, ./../../wp-content/uploads/2023/05/Image-3-300x171.png 300w" sizes="(max-width: 540px) 100vw, 540px">															</div>
+			<!-- start Overlay Carousel -->
+		<link id="owl-carousel-css" href="./../../wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css" type="text/css" rel="stylesheet">
+
+			<style type="text/css">/* widget: Overlay Carousel */
+
+#uc_overlay_carousel_elementor10122{
+  min-height:1px;
+}
+#uc_overlay_carousel_elementor10122 .ue-item
+{
+  position:relative;
+}
+
+
+#uc_overlay_carousel_elementor10122 .ue-item-icon
+{
+  line-height:1em;
+  display:inline-flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+
+#uc_overlay_carousel_elementor10122 .ue-item-icon svg
+{
+  height:1em;
+  width:1em;
+}
+
+.uc_overlay_elegant_carousel *{
+	margin:0;
+	padding:0px;
+	box-sizing: border-box;
+}
+.uc_overlay_elegant_carousel .uc_elegant_carousel_container_holder{
+	position:relative;
+	width:100%;
+}
+.uc_overlay_elegant_carousel .uc_elegant_carousel_container_holder .uc_elegant_carousel_placeholder img{
+	width:100%;
+    object-fit: cover;
+}
+#uc_overlay_carousel_elementor10122 .uc_elegant_carousel_container_holder .uc_elegant_carousel_content{
+	position:absolute;
+	left:0px; 
+	top:0px; 
+    right:0px; 
+	bottom:0px; 
+	width:100%;
+	text-align:center;
+	overflow:hidden;
+    opacity:0;
+    transition:1s;
+}
+
+#uc_overlay_carousel_elementor10122 .uc_elegant_carousel_container_holder:hover .uc_elegant_carousel_content
+{
+  opacity:0;
+}
+.uc_overlay_elegant_carousel .uc_elegant_carousel_container_holder .uc_elegant_carousel_content .uc_elegant_content_box{
+	height:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+.uc_overlay_elegant_carousel h2{
+	font-size:21px;
+}
+
+.uc_overlay_elegant_carousel a.uc_more_btn  {
+	display:inline-block;
+    text-decoration:none;
+}
+
+
+#uc_overlay_carousel_elementor10122 .owl-dots {
+overflow:hidden;
+display:block!important;
+text-align:center;
+}
+
+#uc_overlay_carousel_elementor10122 .owl-dot {
+border-radius:50%;
+display:inline-block;
+}
+
+
+#uc_overlay_carousel_elementor10122 .owl-nav .owl-prev{
+    position:absolute;
+    left:10px;
+    display:inline-block;
+    text-align:center;
+}
+#uc_overlay_carousel_elementor10122 .owl-nav .owl-next{
+  position:absolute;
+    right:10px;
+  display:inline-block;
+  text-align:center;
+}
+
+#uc_overlay_carousel_elementor10122 .owl-nav .owl-prev:after{
+    content: "←";
+}
+#uc_overlay_carousel_elementor10122 .owl-nav .owl-next:after{
+    content: "→";
+}</style>
+
+			<div class="uc_overlay_elegant_carousel" style="direction:ltr;">
+        <div class="uc_carousel owl-carousel uc-items-wrapper  " id="uc_overlay_carousel_elementor10122">
+           	<div class="uc_elegant_carousel_container_holder ue-item">
+                <div class="uc_elegant_carousel_placeholder">
+                    <img src="./../../wp-content/uploads/2023/05/Mask-Group-47-768x533.jpg" alt="Mask Group 47">
+                </div>
+                
+				<div class="uc_elegant_carousel_content">
+                	<div class="uc_elegant_content_box">
+                      
+                                                
+                        	
+                      
+                        	
+                      
+                        <div>
+                            	
+                          
+                          	
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="uc_elegant_carousel_container_holder ue-item">
+                <div class="uc_elegant_carousel_placeholder">
+                    <img src="./../../wp-content/uploads/2023/05/Mask-Group-48-768x533.jpg" alt="Mask Group 48">
+                </div>
+                
+				<div class="uc_elegant_carousel_content">
+                	<div class="uc_elegant_content_box">
+                      
+                                                
+                        	
+                      
+                        	
+                      
+                        <div>
+                            	
+                          
+                          	
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="uc_elegant_carousel_container_holder ue-item">
+                <div class="uc_elegant_carousel_placeholder">
+                    <img src="./../../wp-content/uploads/2023/05/Mask-Group-49-768x533.jpg" alt="Mask Group 49">
+                </div>
+                
+				<div class="uc_elegant_carousel_content">
+                	<div class="uc_elegant_content_box">
+                      
+                                                
+                        	
+                      
+                        	
+                      
+                        <div>
+                            	
+                          
+                          	
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="uc_elegant_carousel_container_holder ue-item">
+                <div class="uc_elegant_carousel_placeholder">
+                    <img src="./../../wp-content/uploads/2023/05/Mask-Group-58-768x533.jpg" alt="Mask Group 58">
+                </div>
+                
+				<div class="uc_elegant_carousel_content">
+                	<div class="uc_elegant_content_box">
+                      
+                                                
+                        	
+                      
+                        	
+                      
+                        <div>
+                            	
+                          
+                          	
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="uc_elegant_carousel_container_holder ue-item">
+                <div class="uc_elegant_carousel_placeholder">
+                    <img src="./../../wp-content/uploads/2023/05/Mask-Group-59-768x533.jpg" alt="Mask Group 59">
+                </div>
+                
+				<div class="uc_elegant_carousel_content">
+                	<div class="uc_elegant_content_box">
+                      
+                                                
+                        	
+                      
+                        	
+                      
+                        <div>
+                            	
+                          
+                          	
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>	
+</div>
+			<!-- end Overlay Carousel -->		</div>
 				</div>
+					</div>
 				</div>
 							</div>
 		</div>
@@ -133,5 +352,59 @@ img.emoji {
 <script src="./../../wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2" id="jet-waypoints-js-js"></script>
 <script id="jet-popup-frontend-js-extra">var jetPopupData = {"version":"2.0.0","ajax_url":".\/\/wp-admin\/admin-ajax.php","isElementor":"true"};</script>
 <script src="./../../wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.0" id="jet-popup-frontend-js"></script>
+<script src="./../../wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.55" id="owl-carousel-js"></script>
+
+<!--   Unlimited Elements 1.5.55 Scripts --> 
+<script type="text/javascript" id="unlimited-elements-scripts">/* Overlay Carousel scripts: */ 
+
+jQuery(document).ready(function(){	
+function uc_overlay_carousel_elementor10122_start(){
+    
+  var objCarousel = jQuery('#uc_overlay_carousel_elementor10122');
+  
+  function initCarousel(){
+  
+    objCarousel.owlCarousel({
+                  items: 1,
+                  loop: true,
+                  center:false,
+                  autoplay:true,
+                  autoplayHoverPause:true,
+                  nav:true,
+                  navText : ["",""],
+                  autoplayTimeout:3000,
+                  smartSpeed: 1000,                                                              
+                  margin: 0,
+                  shuffle:false,
+                  responsive :{
+                      0 : {
+                          items:1
+                      },
+                      768 : {
+                          items:2
+                      },
+                      980 : {
+                          items:1
+                      } 
+              }
+     });
+    
+  } 
+  
+  initCarousel();
+  
+  						
+			objCarousel.trigger("uc-object-ready");
+			jQuery("body").trigger("uc-remote-parent-init", [objCarousel]);
+			  
+  
+  objCarousel.on("uc_ajax_refreshed",function(){      
+     	objCarousel.trigger('destroy.owl.carousel');      
+        initCarousel();      
+  });
+
+}if(jQuery("#uc_overlay_carousel_elementor10122").length) uc_overlay_carousel_elementor10122_start(); else
+	jQuery( document ).on( 'elementor/popup/show', () => { if(jQuery("#uc_overlay_carousel_elementor10122").length) uc_overlay_carousel_elementor10122_start();});
+});</script>
     </body>
 </html>
